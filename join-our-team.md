@@ -1,53 +1,73 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Charlotte Careers
 permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h5 class="join-us-subtitle">Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Sell your first home in 90 days guaranteed. Apply now.</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
-<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.brand}}" class="client-image"/>
 </span>
-<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+<figcaption class="caption">Lars Hedenborg</figcaption><br>
+<span class="client-image-container">
+<img src="/img/headshot2.jpg" alt="{{site.data.settings.client.brand}}" class="client-image"/>
+</span>
+<figcaption class="caption">Thomas Elrod</figcaption>
 </div>
 
 
 <p>Dear Real Estate Agent,</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>I understand that you may be transitioning from another career into the role of full-time real estate agent.</p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
-<ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
-</ul></p>
+<p>Changing careers is not easy. In fact, about 85% of real estate agents will go back to their previous career because they didn’t have the training, support, or money that they needed to succeed.</p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>A lot of these agents struggle to do everything on their own. Without the support of a team, many agents lie awake at night wondering where their next deal—and their next paycheck—will come from.  </p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
+<p>If you can’t succeed on your own, you’ll wind up going back to your previous career or struggle to find another industry to make some money in.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>High Performance Real Estate Advisors is owned and co-founded by two of the top agents in Charlotte: Lars Hedenborg and Thomas Elrod. We decided to merge two local powerhouses, one from Keller Williams and one from Re/MAX, to create a high-performing team. Each one of our agents does anywhere from 60 to 120 transactions a year.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>General brokerages often hire amateurs to help agents with prospecting and marketing. We have a team of professionals. We have the right people in the right seats so that everyone is doing one job really well. We break down the roles of a typical agent into multiple parts to keep everyone moving forward.</p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>As a real estate agent on our team, you would really only be focused on generating new business and negotiating contracts.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>On our team, you will get: a CRM, 100 leads a month, administrative support, technology and systems, brand name recognition, inside sales agents, and a great commission split. We also cover all of your upfront costs, such as marketing, business cards, and signs.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p>If you are looking to have higher transactions and make more money, we offer the training, knowledge, systems, and support that mega agents have.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>You can keep trying to solve this problem on your own, but you will likely run into several lawsuits as a single agent, join a general brokerage that will  not properly train you, or go back to your old career.</p>
 
-<p>Let’s help you grow your business.</p>
+<p>Our promise is to help you succeed.</p>
 
-<p>{{site.data.settings.client.name}}</p>
+<p>Don’t just take our word for it. One of our top agents was making $50,000 a year as a bartender. Not quite sure where to go with life after the restaurant industry, this agent decided on a career in estate. Now, this individual is one of our top agents with over 80 transactions a year. In just three years, this individual went from earning $50,000 a year to more than $200,000 with our system.</p>
+
+<p>We want to offer you a position on our team.</p>
+
+<p>When you start with us, you will go into our High Performance Agent Incubator program for 60 days. You will spend your first 60 days as an ISA so that you can learn the scripts, learn about our company, and go through our extensive online training program. You will get paid $2,500 a month to come in and learn, and we provide a personal inside sales coach. After you become an agent, your split will be anywhere from 30% to 60%, depending on the lead source.</p>
+
+<p>Here are a few Frequently Asked Questions we get from new agents:</p>
+
+<p><strong>How long is training?</strong> 60 days.<br>
+<p><strong>Do I have to have a North Carolina real estate license?</strong> Yes and within 60 days we require the acquisition of a South Carolina real estate license also.<br>
+
+<p>As a member of our team, we guarantee weekly one-on-one coaching for at least half an hour or more. We want to give you constant feedback on where you stand in the business and how to improve things that may not be working.</p>
+
+<p>If you follow our model, you will make $60,000 or more in your first year.</p>
+
+<p>If you take us up on this offer, we have leads for you to call right now. You’ll likely have commission in your bank account and ready to spend within 90 days. Send us your application as soon as possible.</p>
+
+<p>We look forward to hearing from you!</p>
+
+<p>Sincerely,</p>
+
+
+<p><strong>Lars Hedenborg & Thomas Elrod</strong></p>
+
+<p>Co-Founders, High Performance Real Estate Advisors</p>
 
 
 

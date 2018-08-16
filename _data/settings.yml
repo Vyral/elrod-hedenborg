@@ -1,12 +1,12 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Charlotte's Best Real Estate Training
+description: Thomas Elrod and Lars Hedenborg, top Real Estate Agents in Charlotte, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
+  # - title: Events
+  #   url: #
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
@@ -14,21 +14,21 @@ custom_links:
 
 
 client:
-  name:
+  name: Thomas Elrod and Lars Hedenborg
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    High Performance Real Estate was built on the notion that the secret to achieving incredible goals and getting real results is to dominate real estate with a team approach. HPREA was built to combat the idea of a part-time real estate agent, because one part-time agent does not have the capacity to cover every aspect of the real estate process.  Our team has sales, marketing, and operations professionals working to deliver a proven repeatable home selling process. This is the same process that they use to sell over 400 homes a year - that’s more than one house sold for every day of the year!
+  market: Charlotte
+  brand: High Performance Real Estate Advisors
+  brokerage: Keller Williams Realty
+  address: '3430 Toringdon Way #200<br>Charlotte, NC 28277'
+  phone: 704-322-3401
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@hprea.com
+  url: http://www.highperformancerealestate.com
 
 lender:
   show_section: false
@@ -44,11 +44,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/HighPerformanceRealEstateAdvisors/
+  linkedin_url: https://www.linkedin.com/in/lars-hedenborg-7b1a7a10
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCSdlue5-E2fRixNhcw9Loig
+  twitter_url: https://twitter.com/hprea1
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -67,6 +67,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
+  client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog
@@ -74,8 +75,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0093D0'
+  theme_color: '#181818'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
