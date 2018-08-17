@@ -17,9 +17,7 @@ youtube_alternate_image:
 youtube_code: s5EAqPsIKzs
 ---
 
-{% include youtube.html %}<br><br>&nbsp;
-
-Let me share a story with you about a tip I learned that changed my real estate career.
+{% include youtube.html %}<br><br>Let me share a story with you about a tip I learned that changed my real estate career.
 
 I entered the real estate business in April 2010 and initially stumbled my way through it. About a year later, in April 2011, a fellow agent swung by my office and told me they noticed I was working hard, but they weren’t sure if I was working smart.
 
