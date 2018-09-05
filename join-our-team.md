@@ -4,15 +4,11 @@ title: Charlotte Careers
 permalink: /join-our-team/
 ---
 
-<div class="recruiting-page">
-						<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Charlotte</h1>
-						<h5 class="join-us-subtitle">Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. &nbsp;Apply now.</h5>
-						<div class="recruiting-photo"><span class="client-image-container"> <img alt="High Performance Real Estate Advisors" class="client-image" src="/img/headshot.jpg" /> </span></div>
-					</div>
+<div class="recruiting-page"><h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Charlotte</h1><h5 class="join-us-subtitle">Get the culture, leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. &nbsp;Apply now.</h5><div class="recruiting-photo"><span class="client-image-container"> <img alt="High Performance Real Estate Advisors" class="client-image" src="/img/headshot.jpg" /> </span></div></div>
 
 <figcaption class="caption">Lars Hedenborg</figcaption>
 
-<br> ![High Performance Real Estate Advisors](/img/headshot2.jpg){: .client-image}
+<br>![High Performance Real Estate Advisors](/img/headshot2.jpg){: .client-image}
 
 <figcaption class="caption">Thomas Elrod</figcaption>
 
@@ -40,7 +36,7 @@ You can keep trying to solve this problem on your own, but you will likely run i
 
 Our promise is to help you succeed.
 
-Don’t just take our word for it. One of our top agents was making $50,000 a year as a bartender. Not quite sure where to go with life after the restaurant industry, this agent decided on a career in estate. Now, this individual is one of our top agents with over 80 transactions a year. In just three years, this individual went from earning $50,000 a year to more than $200,000 with our system.
+Don’t just take our word for it. One of our top agents was making $50,000 a year as a bartender. Not quite sure where to go with life after the restaurant industry, this agent decided on a career in estate. Now, this individual is one of our top agents with over 120 transactions a year. In just three years, this individual went from earning $50,000 a year to more than $200,000 with our system.
 
 We want to offer you a position on our team.
 
@@ -69,12 +65,7 @@ Co-Founders, High Performance Real Estate Advisors
 ## Apply Now to Join Our Team
 {: .recruiting}
 
-<form method="post" class="home-value cta-forms" action="https://formspree.io/crystal@hprea.com" onsubmit="return setReturn()">
-						<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
-							<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70uv3cgtpmrvqe1r38wk2ddhpux3b6gpp4rbkcmtk4-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
-							<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70utrcdh6ut9ncxrk8xbp6hhpexbhc5hpguhq61t34xbjdcrpat3adcv66ttdc9gq6t9k68-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
-						<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70utrccwpgt9hegvp6y3bcnhp8uvgcnj6gw3575m3crbm6dppadbj6xjpacbbchj6gw3qf0wq2dthenr38x326dk32x9pdnhk6vb4cdvq0dkpddkkcwkq6dkp6cb4ccwpew9pegwppdhr5nh62wv56ct0-base32-->
-						<div class="hidden"><input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div><input type="hidden" required="" value="1731b493afb1fc65c4d92eda850545516ed356bdd1842b16b0dc6f60d5" name="_encrypted_details" />&nbsp;</form>
+<form method="post" class="home-value cta-forms" action="https://formspree.io/crystal@hprea.com" onsubmit="return setReturn()"><fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uqccv3cxu70vbjetrpacbj6cw7eutjchj6gw3nf0tp4dk7e1r38wk2ddhpux3b6gpp4rbkcmtk4-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea> <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uq8wk3chm3cxbm75q66y3jdcw7grkg6tm6gw35f1h6grtnd1r6exb8e4v32x1k6hw64uk4cdt70rbm6dgp8rvp6rv78x34ccwpew9pegwppdhr5nh62wv56ct0-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset><!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uq8wk3cdvq0tvm75m6atvpe0v7jcv2cdq6gw1renv6erved8v6extk6mvkav9kcdt64v9pchr70rb4c9n3cy3ae1gp6rk2cdm6mdk7ewtq2thgexrk4t3md1jpwwhk71w36chpchnk6ckr75r68vk8dcv7crhmcdj7cw9gchnq0t34ddnp6xvbe4v68uvg6thp4d33cdvq0tbq75r6atvqe1r68u3j6nq6gdhjexv3adk3egr2urk1edjk6cg-base32--><div class="hidden"><input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div><input type="hidden" required="" value="1731b493afb1fc65c4d92eda850545516ed356bdd1842b16b0dc6f60d5" name="_encrypted_details" />&nbsp;</form>
 
 &nbsp;
 
