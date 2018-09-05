@@ -1,24 +1,34 @@
 audit_header: false
 title: Charlotte's Best Real Estate Training
-description: Thomas Elrod and Lars Hedenborg, top Real Estate Agents in Charlotte, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: >-
+  Thomas Elrod and Lars Hedenborg, top Real Estate Agents in Charlotte, shares
+  their own internal real estate agent training for free. Their Real Estate
+  Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
   - title: Events
-    url: https://www.eventbrite.com/o/high-performance-real-estate-advisors-17151552282
+    url: >-
+      https://www.eventbrite.com/o/high-performance-real-estate-advisors-17151552282
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
-
-
 client:
   name: Thomas Elrod and Lars Hedenborg
   title:
   license_number:
-  about_markdown: |
-    High Performance Real Estate was built on the notion that the secret to achieving incredible goals and getting real results is to dominate real estate with a team approach. HPREA was built to combat the idea of a part-time real estate agent, because one part-time agent does not have the capacity to cover every aspect of the real estate process.  Our team has sales, marketing, and operations professionals working to deliver a proven repeatable home selling process. This is the same process that they use to sell over 400 homes a year - that’s more than one house sold for every day of the year!
+  about_markdown: >
+    High Performance Real Estate was built on the notion that the secret to
+    achieving incredible goals and getting real results is to dominate real
+    estate with a team approach. HPREA was built to combat the idea of a
+    part-time real estate agent, because one part-time agent does not have the
+    capacity to cover every aspect of the real estate process.  Our team has
+    sales, marketing, and operations professionals working to deliver a proven
+    repeatable home selling process. This is the same process that they use to
+    sell over 400 homes a year - that’s more than one house sold for every day
+    of the year!
   market: Charlotte
   brand: High Performance Real Estate Advisors
   brokerage: Keller Williams Realty
@@ -28,74 +38,79 @@ client:
   phone2:
   phone2_type:
   email: info@hprea.com
-  url: http://www.highperformancerealestate.com
-
+  url: 'http://www.highperformancerealestate.com'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/highperformancerealestatemastermind/
-  linkedin_url: https://www.linkedin.com/in/lars-hedenborg-7b1a7a10
+  facebook_url: 'https://www.facebook.com/highperformancerealestatemastermind/'
+  linkedin_url: 'https://www.linkedin.com/in/high-performance-real-estate-877130143/'
   gplus_url:
-  youtube_url: https://www.youtube.com/channel/UCSdlue5-E2fRixNhcw9Loig
-  twitter_url: https://twitter.com/hprea1
+  youtube_url: 'https://www.youtube.com/channel/UCSdlue5-E2fRixNhcw9Loig'
+  twitter_url: 'https://twitter.com/hprea1'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   client_headshot_path2: /img/headshot2.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#0093D0'
+  brand_color: '#0093d0'
   theme_color: '#181818'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
