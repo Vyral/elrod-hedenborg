@@ -26,7 +26,7 @@ Our team is currently in the midst of a challenge that I’d like to discuss wit
 
 We’re a couple of weeks in, and **I’m amazed at the camaraderie that I’ve seen on our team** (not to mention the friendly smack-talk). I’ve seen the general office energy and focus increase—and with a market shift looming, agents should take all the focus and energy they can get.
 
-With that in mind, **I’m challenging all my fellow agents to undergo this challenge as well.** I can provide you with a tool to help you plan your challenge and hold yourself (and your co-workers) accountable. The tool consists of a three-page document that asks questions which will force you to think about the goals you have in mind:
+With that in mind, **I’m challenging all my fellow agents to undergo this challenge as well.** I can provide you with a tool to help you plan your challenge and hold yourself (and your co-workers) accountable. [The tool consists of a three-page document that asks questions which will force you to think about the goals you have in mind](https://s3.amazonaws.com/vyralmarketing/HPREA/1+The+66+Day+Challenge.pdf){: target="_blank"}:
 
 What is the one thing you can commit to starting or stopping that will make all the difference in your life?
 
