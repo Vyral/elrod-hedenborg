@@ -35,6 +35,6 @@ Working on your business, on the other hand, means working on the things that bu
 
 The reason I share this information with you isn’t to brag. I have a Ph.D. in DUMB when it comes to real estate—I’ve done every dumb thing you can possibly imagine.
 
-If you’d like to know more about how how we train our agents to reach their highest performance level possible, don’t hesitate to call or email us. We’d love to talk to you.
+If you’d like to know more about how we train our agents to reach their highest performance level possible, don’t hesitate to call or email us. We’d love to talk to you.
 
 &nbsp;
