@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Find Out If You’re Addicted to Your Phone
-date: 2018-11-26 19:52:39
+date: 2018-11-26 19:52:00
 tags:
 excerpt: >-
   Are you addicted to your smartphone? I recently found a survey that helped me
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: a6lJm411QOM
+youtube_code: 9NKx5AMqGBo
 ---
 
 {% include youtube.html %}
@@ -30,6 +30,6 @@ Darren Hardy has a series called “Insane Productivity,” in which he lays out
 
 My ultimate point is to **be careful to not become addicted to your technology.** As we say, “Let’s just be better, Charlotte.” Let’s elevate our game and the real estate community so we can serve our clients at a higher level.
 
-If you have any questions for me, please feel free to reach out. I’d love to speak with you
+If you have any questions for me, please feel free to reach out. I’d love to speak with you.
 
 &nbsp;
