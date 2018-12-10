@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Tips to Ensure Your Buyer’s Offer Is Accepted
-date: 2018-08-17 19:50:49
+date: 2018-12-10 07:50:00
 tags:
   - Buyer Prospects
 excerpt: >-
@@ -33,5 +33,3 @@ Right now, we are definitely in a sellers market. We’re seeing 10 to 12 offers
 {% include pullquote.html %}
 
 If you have questions about how we train our high-performance agents at the highest level, feel free to reach out to us. We’d love to sit down and talk with you.
-
-&nbsp;
