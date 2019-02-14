@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dominate Your Day
-date: 2019-02-14 21:04:34
+date: 2019-02-14 21:04:00
 tags:
   - Transaction Management
 excerpt: 'For the next 30 days, we’d like to challenge you to Dominate Your Day.'
@@ -11,8 +11,9 @@ pullquote: >-
   and career.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/larselrod-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
 youtube_code: M4WkyOUW9I
 ---
 
@@ -37,5 +38,3 @@ The positive focus list is all about listing things that you’re thankful for. 
 When you stay on track with this Dominate Your Day document for one month, it will be easier to do the same the next month, and then the one after that. Tracking your days using this form can lead to amazing changes in your life and career.
 
 If you have any other questions, would like more information, or would like a copy of this document, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
