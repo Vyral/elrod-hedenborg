@@ -27,7 +27,7 @@ Now, we’d like to challenge you to fill out this document every work day, your
 
 The first section of the document contains space to record up to three different projects and the steps involved in each.
 
-Below this, there is a section where you can timeblock your top 6 must-do money-making activities for the day. In general, the order and content of these tasks is up to you, but the first two slots should be definitely be devoted to business development and lead follow-up. **In total, the six items contained in this section of the document should consume about six hours of your day.**
+Below this, there is a section where you can time block your top six must-do money-making activities for the day. In general, the order and content of these tasks is up to you, but the first two slots should definitely be devoted to business development and lead follow-up. **In total, the six items contained in this section of the document should consume about six hours of your day.**
 
 {% include pullquote.html %}
 
