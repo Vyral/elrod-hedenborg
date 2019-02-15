@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/larselrod-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
-youtube_code: M4WkyOUW9I
+youtube_code: '-M4WkyOUW9I'
 ---
 
 {% include youtube.html %}
