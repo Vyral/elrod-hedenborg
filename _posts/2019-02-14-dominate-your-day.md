@@ -37,4 +37,4 @@ The positive focus list is all about listing things that you’re thankful for. 
 
 When you stay on track with this Dominate Your Day document for one month, it will be easier to do the same the next month, and then the one after that. Tracking your days using this form can lead to amazing changes in your life and career.
 
-If you have any other questions, would like more information, or would like a copy of this document, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, would like more information, or w[ould like a copy of this document](https://s3.amazonaws.com/vyralmarketing/HPREA/3+DYD+form.pdf){: target="_blank"}, feel free to give me a call or send me an email. I look forward to hearing from you soon.
