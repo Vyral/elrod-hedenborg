@@ -18,15 +18,13 @@ youtube_code: o1CSkexJ398
 
 {% include youtube.html %}
 
-&nbsp;
-
 If you’ve been considering a career in real estate, here are the top 10 reasons to join our team at High Performance Real Estate Advisors:
 
-**10. You can do what you’re really good at.** Here at HPREA, we take on all of the overhead so you can do what you’re really good at. We spend anywhere from $125,000 to $150,000 per month so you can do what you're good at.
+**10. You can do what you’re really good at.** Here at HPREA, we take on all of the overhead so you can do what you’re really good at. We spend anywhere from $125,000 to $150,000 per month so you can do your 20%.
 
 **9. We spend a lot of time coaching on how to negotiate.** The way you negotiate with buyer clients and seller clients are different. We do a lot of training to help you differentiate and become proficient in both.
 
-**8. We have 68,091 leads in our data bank.** We’re adding hundreds more each month to help you grow your business.
+**8. We have over 68,000 leads in our data bank.** We’re adding hundreds more each month to help you grow your business.
 
 **7. We have the Coordinators of Chaos.** This is our name for our team of contract-to-close experts. We have a fantastic support staff of eight to help move your transaction along from contract to close.
 
