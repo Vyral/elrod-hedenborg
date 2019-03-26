@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Can You Benefit From Joining Our Team
-date: 2019-03-08 21:30:26
+title: Why Join HPREA?
+date: 2019-03-08 21:30:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -38,6 +38,6 @@ If you’ve been considering a career in real estate, here are the top 10 reason
 
 **2. 24-hour IT support.** With technology being such a major factor for our team, we have support for you both inside and outside of the office.
 
-**1. &nbsp;We’ve served over 4,000 families.** Our past business is all over the internet. Check out our reviews on Zillow or Google if you don’t believe us.
+**1.  We’ve served over 4,000 families.** Our past business is all over the internet. Check out our reviews on Zillow or Google if you don’t believe us.
 
 If you want to take your career to the next level by joining HPREA, go to [highperformancerealestatecareers.com](http://highperformancerealestatecareers.com/POcQl/UTMUe/kKiMW/ScMQh/){: target="_blank"} and we’ll see you at the closing table. Give us a call or send us an email with any questions you have.
