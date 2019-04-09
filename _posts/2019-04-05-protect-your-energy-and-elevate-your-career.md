@@ -27,6 +27,6 @@ With the routine, you’ll learn how to keep long-term, high-energy performance 
 
 {% include pullquote.html %}
 
-The checklists starting at **(3:05)** provide an outline of exercise, diet and nutrition, and personal-energy guidelines to follow.&nbsp;
+[The checklists starting at **(3:05)** provide an outline of exercise, diet and nutrition, and personal-energy guidelines to follow.&nbsp;](https://s3.amazonaws.com/vyralmarketing/HPREA/Energy+Checklist+(1).pdf){: target="_blank"}
 
 Following these tips each day will elevate your energy levels, increase your productivity, and keep you feeling your best throughout the entire day. If you have any other questions or would like more information, feel free to reach out to us. We look forward to hearing from you.<br>&nbsp;
