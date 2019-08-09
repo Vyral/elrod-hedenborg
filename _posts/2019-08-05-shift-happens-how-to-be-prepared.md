@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A 3-Step Guide to Beating the iBuyers
-date: 2019-08-05 16:28:39
+title: 'Shift Happens: How to Be Prepared'
+date: 2019-08-05 16:28:00
 tags:
   - Lead Generation
 excerpt: >-
