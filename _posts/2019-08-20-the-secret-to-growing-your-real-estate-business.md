@@ -1,15 +1,13 @@
 ---
 layout: post
 title: The Secret to Growing Your Real Estate Business
-date: 2019-08-20 20:17:25
+date: 2019-08-20 20:17:00
 tags:
   - Lead Generation
 excerpt: 'Today, let’s chat about the secret to growing your real estate business.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/HPREA/Videos/The+Secret+to+Growing+Your+Real+Estate+Business+-+Charlotte+Real+Estate+Agent.mp4
-pullquote: >-
-  There’s already a quoted question in the middle of the blog, which might make
-  for bad formatting if there’s also a PQ
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
