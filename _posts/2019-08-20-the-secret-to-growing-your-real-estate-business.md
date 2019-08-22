@@ -31,7 +31,7 @@ If you can ask that question 15 to 20 times a day or more, you will be radically
 
 {% include pullquote.html %}
 
-At High Performance Real Estate Advisors, we follow a very specific process to train you how to increase your business. There are aspects of this business that you can get bogged down in if you’re not committing yourself to dollar-producing activities.
+At High Performance Real Estate Advisors, we follow a very specific process to train you on how to increase your business. There are aspects of this business that you can get bogged down in if you’re not committing yourself to dollar-producing activities.
 
 If you’re at a point where it’s a struggle and a grind just to make it through the day and you’d like to find a better way to do real estate, reach out to us or [visit our website.](https://bebettercharlotte.com){: target="_blank"} Hope to hear from you soon\!<br>&nbsp;
 
