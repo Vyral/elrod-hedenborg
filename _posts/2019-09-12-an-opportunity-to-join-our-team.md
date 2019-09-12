@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Opportunity to Join Our Team
-date: 2019-09-12 19:55:48
+date: 2019-09-12 07:55:00
 tags:
 excerpt: >-
   Are you looking to get started on your path to real estate success? If so,
