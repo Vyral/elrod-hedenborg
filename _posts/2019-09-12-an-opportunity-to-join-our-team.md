@@ -20,7 +20,7 @@ youtube_code: 6n4RUiUCvtg
 
 {% include youtube.html %}
 
-Do you feel worn down at your current brokerage? Do you feel like you aren’t getting adequate training, or, if you are, do you feel like your work/life balance has been thrown completely out of balance?&nbsp;
+Do you feel worn down at your current brokerage? Do you feel like you aren’t getting adequate training, or, if you are, do you feel like your work-life balance has been thrown completely out of balance?&nbsp;
 
 **Whatever your circumstances may be, let’s talk.** We’d love to have a confidential conversation about your real estate career.&nbsp;
 
