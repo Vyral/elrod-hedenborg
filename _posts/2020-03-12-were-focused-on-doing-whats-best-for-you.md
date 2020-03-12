@@ -19,6 +19,7 @@ youtube_code: MOYAhkKFSNc
 
 <center><em>If you’re struggling in your business, give us a call and we’ll see how we can help.</em></center>
 &nbsp;
+&nbsp;
 
 If you’re concerned about what you gross, it may be time to talk to another real estate team.&nbsp;
 
