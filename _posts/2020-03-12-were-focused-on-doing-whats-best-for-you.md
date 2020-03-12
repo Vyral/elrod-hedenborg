@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Focused on Doing What’s Best for You
-date: 2020-03-12 18:56:12
+date: 2020-03-12 18:56:00
 tags:
 excerpt: >-
   If you’re struggling in your business, give us a call and we’ll see how we can
@@ -17,9 +17,9 @@ youtube_code: MOYAhkKFSNc
 
 {% include youtube.html %}
 
-<center><em>If you’re struggling in your business, give us a call and we’ll see how we can help.</em></center>
-&nbsp;
-&nbsp;
+<center><em>If you&rsquo;re struggling in your business, give us a call and we&rsquo;ll see how we can help.</em></center>
+
+&nbsp; &nbsp;
 
 If you’re concerned about what you gross, it may be time to talk to another real estate team.&nbsp;
 
