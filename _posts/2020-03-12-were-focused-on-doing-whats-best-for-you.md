@@ -23,6 +23,6 @@ youtube_code: MOYAhkKFSNc
 
 If you’re concerned about what you gross, it may be time to talk to another real estate team.&nbsp;
 
-More specifically, if you’re concerned about what you net and the time, money, and freedom tied into that, it may be time to check out http://[highperformancerealestate.com](highperformancerealestate.com) and visit the “Careers” tab so we can schedule a confidential consultation and see if joining our team makes sense. &nbsp;
+More specifically, if you’re concerned about what you net and the time, money, and freedom tied into that, it may be time to check out http://[highperformancerealestate.com](highperformancerealestate.com){: target="_blank"}&nbsp;and visit the “Careers” tab so we can schedule a confidential consultation and see if joining our team makes sense. &nbsp;
 
 There are roughly 16,000 agents in the Charlotte area, but we’re focused on doing what’s best for you. If you’re interested in taking advantage of this offer, you can also call or email us anytime. We look forward to speaking with you.&nbsp;
