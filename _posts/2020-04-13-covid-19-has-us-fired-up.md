@@ -1,10 +1,11 @@
 ---
 layout: post
 title: COVID-19 Has Us FIRED UP!!!
-date: 2020-04-13 17:43:45
+date: 2020-04-13 17:43:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/HPREA/Are+You+Afraid+of+How+the+Coronavirus+Is+Going+to+Affect+Your+Long+Term+Business_.mp4.crdownload
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
