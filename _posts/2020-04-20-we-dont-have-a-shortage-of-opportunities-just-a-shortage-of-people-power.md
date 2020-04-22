@@ -16,4 +16,4 @@ youtube_code: WjuFNLaHFIw
 
 {% include youtube.html %}
 
-You know that the most important quality of a real estate agent is the ability to deliver the best experience to her/his clients. Well we are inundated with opportunities right now - last week alone we set *13 consultations*. This is a great chance to continue growing your business while we do all the heavy lifting.
+You know that the most important quality of a real estate agent is the ability to deliver the best experience to her/his clients. Well, we are inundated with opportunities right now - last week alone we set *13 consultations*. This is a great chance to continue growing your business while we do all the heavy lifting.
