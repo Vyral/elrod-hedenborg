@@ -18,7 +18,9 @@ youtube_code: RcASElzAgco
 
 {% include youtube.html %}
 
-***&nbsp;**If you want to crush your day, you have to get focused as soon as you wake. *
+<center><em>If you want to crush your day, you have to get focused as soon as you wake.</em></center>
+&nbsp;
+
 
 The most successful people do the same things every morning to build momentum early on and dominate their day. Since ours is a high-performance work environment, it’s imperative that our team members each start their day with consistent, positive activities that lend structure and focus. Here is my personal morning routine:&nbsp;
 
