@@ -17,7 +17,8 @@ youtube_code: IUiBaHpLID4
 
 {% include youtube.html %}
 
-*The book “Atomic Habits” will help you grow personally and professionally.*
+<center><em>The book “Atomic Habits” will help you grow personally and professionally.</em></center>
+&nbsp;
 
 Today I want to share a quick book recommendation with you. **It’s called “Atomic Habits” by James Clear, and I’ve already read it four times.**
 
