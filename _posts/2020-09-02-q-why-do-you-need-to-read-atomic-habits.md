@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Do You Need to Read “Atomic Habits”?'
-date: 2020-09-01 13:31:55
+date: 2020-09-02 13:31:00
 tags:
 excerpt: The book “Atomic Habits” will help you grow personally and professionally.
 enclosure:
@@ -17,7 +17,8 @@ youtube_code: IUiBaHpLID4
 
 {% include youtube.html %}
 
-<center><em>The book “Atomic Habits” will help you grow personally and professionally.</em></center>
+<center><em>The book &ldquo;Atomic Habits&rdquo; will help you grow personally and professionally.</em></center>
+
 &nbsp;
 
 Today I want to share a quick book recommendation with you. **It’s called “Atomic Habits” by James Clear, and I’ve already read it four times.**
