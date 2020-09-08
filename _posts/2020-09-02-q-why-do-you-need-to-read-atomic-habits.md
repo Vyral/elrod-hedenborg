@@ -23,11 +23,11 @@ youtube_code: IUiBaHpLID4
 
 Today I want to share a quick book recommendation with you. **It’s called “Atomic Habits” by James Clear, and I’ve already read it four times.**
 
-{% include pullquote.html %}
-
 When I think of success as a real estate agent, it’s all about an incremental habit stacking that has to happen. When you first get in the business, you know nothing and learn that you need to master certain habits or stop doing others to have long-term success.
 
-An atom is a very small particle.‘Atomic Habits’ are very small habits that can lead to huge results in your life.Whether it’s the habit of mastering new scripts or making sure you drink a gallon of water each day, these habits can lead to you having more energy and help you find your way to adopting your next good habit. If you could master just a few new habits, your business can transform over time.
+An atom is a very small particle. ‘Atomic Habits’ are very small habits that can lead to huge results in your life. Whether it’s the habit of mastering new scripts or making sure you drink a gallon of water each day, these habits can lead to you having more energy and help you find your way to adopting your next good habit. If you could master just a few new habits, your business can transform over time.
+
+{% include pullquote.html %}
 
 **It’s all about an identity shift.** For example, I set a goal of running a marathon, not a goal of becoming a runner. As a result, I did the marathon and swore off running forever when I was done. It was a full year before I picked up running again, and I wish I would have never stopped.
 
