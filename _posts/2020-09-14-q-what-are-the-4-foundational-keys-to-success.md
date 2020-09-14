@@ -16,7 +16,7 @@ youtube_code: tTZD-l61D40
 
 {% include youtube.html %}
 
-<center><em>These four areas are where every agent should focus their best efforts. </em></center>
+<center><em>These four areas are where every agent should focus their best efforts. </em></center>&nbsp;
 &nbsp;
 &nbsp;
 There’s no substitute for a firm grasp of the basics; without it, you can’t reasonably expect to excel in every other area of your profession and become a high-performing, well-rounded agent that outlasts the competition. Here are the four areas you should focus on:&nbsp;
