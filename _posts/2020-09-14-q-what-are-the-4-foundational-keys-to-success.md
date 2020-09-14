@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are the 4 Foundational Keys to Success?'
-date: 2020-09-14 18:38:09
+date: 2020-09-14 18:38:00
 tags:
 excerpt: These four areas are where every agent should focus their best efforts.
 enclosure: >-
@@ -16,10 +16,13 @@ youtube_code: tTZD-l61D40
 
 {% include youtube.html %}
 
-<center><em>These four areas are where every agent should focus their best efforts. </em></center>&nbsp;
-&nbsp;
-&nbsp;
-There’s no substitute for a firm grasp of the basics; without it, you can’t reasonably expect to excel in every other area of your profession and become a high-performing, well-rounded agent that outlasts the competition. Here are the four areas you should focus on:&nbsp;
+<center><em>These four areas are where every agent should focus their best efforts. </em></center>
+
+<center>&nbsp;</center>
+
+<center>&nbsp;</center>
+
+&nbsp; &nbsp; &nbsp; There’s no substitute for a firm grasp of the basics; without it, you can’t reasonably expect to excel in every other area of your profession and become a high-performing, well-rounded agent that outlasts the competition. Here are the four areas you should focus on:&nbsp;
 
 **1\. Get your scripts down pat.** For my first three years in the business, practically all I did was practice my scripts day in and day out. I sold 27 homes in my first 10 months in the business, and 44 in my first full year; this discipline of knowing what to say when speaking with a buyer or a seller over the phone was my X factor.&nbsp;
 
