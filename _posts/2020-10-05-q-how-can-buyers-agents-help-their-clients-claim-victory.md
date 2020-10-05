@@ -18,7 +18,9 @@ youtube_code: dTbf-2haL7Q
 
 {% include youtube.html %}
 
-*How are you working with buyers in today’s market?*
+<center><em>How are you working with buyers in today’s market?</em></center>
+
+&nbsp;
 
 If you want your clients to be competitive in this hot seller’s market, remember these six tips for writing an aggressive, yet viable, offer:&nbsp;
 
