@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can Buyers Agents Help Their Clients Claim Victory?'
-date: 2020-10-05 18:43:20
+date: 2020-10-05 18:43:00
 tags:
 excerpt: How are you working with buyers in today’s market?
 enclosure: >-
@@ -20,18 +20,20 @@ youtube_code: dTbf-2haL7Q
 
 *How are you working with buyers in today’s market?*
 
-&nbsp;
+If you want your clients to be competitive in this hot seller’s market, remember these six tips for writing an aggressive, yet viable, offer:&nbsp;
 
-Should you buy a vacation or investment home during the pandemic?
+**1\. Earnest money.** Your client needs to come in strong with respect to due diligence fees, earnest money, and their timing. How much earnest money is put down shows the seller how much skin buyers are willing to have in the game on the outset.
 
-There are obviously many things to consider when it comes to buying vacation or investment properties; the future is still uncertain. But we can say that **interest rates are currently very low,** making a purchase like that much more affordable.
+**2\. Show the sellers you’re qualified.** Remember, there’s a difference between being pre-qualified and pre-approved. You are doing your buyers a disservice if you’re allowing them to look at homes without being fully underwritten. By the time they’re ready to look at homes, their lender should only need to see an address and get an appraisal on the property.&nbsp;
 
 {% include pullquote.html %}
 
-When thinking about vacation homes, **think through the lens of affordability.** What type of loan programs are available to you? How much cash is required for a down payment? Is the cost of this purchase a number you can live with?
+**3\. Be flexible on the settlement date.** Buyers can’t afford to be picky in this market, so be sure to give the seller a closing date that works for them.
 
-There are also a lot of ways to consider investment properties. You might be after cash flow, future appreciation, rate of return, and so on. **Think about what you want to get from the property** to help you determine whether a particular purchase makes sense for you.
+**4\. Remove contingencies and oddities from your buyer’s contract.** Since multiple-offer situations are common in this market, you really can’t afford to have contingencies and strange requests in your offer. Make it as clean as possible, and make sure your buyer is ready to potentially pay more for the home than the comparables show it to be worth. Sellers have the power in this market.
 
-So ultimately, it comes down to your personal situation, which is why we like to sit down with our clients and learn about their personal needs.
+**5\. Make your buyer’s offer personal.** Pull out all the stops and have your client write a ‘love letter’ to the seller that details why they fell in love with their home and what their family plans to do with it once they move it. The buyer can even include a picture of their family to maybe tug on the seller’s heartstrings. To really stand out among the competition, consider making a video instead of a hand-written letter.
 
-If you have any questions or would like more personalized advice to help you make this decision, reach out to us today. We’d love to speak with you about your ideas and provide relevant guidance to help you find what you’re after.
+**6\. Write your best offer.** If the home is listed at $350,000, the buyer is willing to pay that much, and the market supports that price, don’t let them come in at $330,000 to leave room for negotiating. That strategy will likely leave them without a house. Chances are that other offers will come in higher than yours, and the sellers will toss yours aside in favor of one with a better starting price.
+
+If you’re at the point in your real estate career where you wish you could be part of a team who is rowing in the same direction or you want a better plan for future growth, visit [www.HighPerformanceRealEstateCareers.com](http://www.highperformancerealestatecareers.com) to schedule a meeting with us to discuss where you are now, where you want to be in the future, and what is holding you back. We hope to hear from you soon\!
