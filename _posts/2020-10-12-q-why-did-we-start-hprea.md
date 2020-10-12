@@ -15,7 +15,8 @@ youtube_code: poKk6iFWsw4
 
 {% include youtube.html %}
 
-*Here’s the story of how I got into this industry and why we formed our team. *
+<center><em>Here’s the story of how I got into this industry and why we formed our team.</em></center>
+&nbsp;
 
 Where did my journey in real estate begin? Well, I left a corporate job and got into the business back in 2007; that, of course, was just before the Great Recession. There’s no sugarcoating the fact that things were pretty gruesome for real estate back then (the end of 2008 especially), but I put my head down and succeeded in a very traditional sense. I sold 44 homes in my first full year, which was stellar production by any standard. The problem, however, is that I was working eight days a week to get those numbers.&nbsp;
 
