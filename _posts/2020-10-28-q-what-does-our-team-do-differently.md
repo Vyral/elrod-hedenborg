@@ -18,7 +18,7 @@ youtube_code: m9R6aq4-yyI
 
 {% include youtube.html %}
 
-*Here’s how our team’s structure allows agents to produce more.*
+<center><em>Here’s how our team’s structure allows agents to produce more.</em></center>
 
 &nbsp;
 
