@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does Our Team Do Differently?'
-date: 2020-10-28 18:37:00
+date: 2020-10-27 18:37:00
 tags:
 excerpt: Here’s how our team’s structure allows agents to produce more.
 enclosure: >-
@@ -18,7 +18,7 @@ youtube_code: m9R6aq4-yyI
 
 {% include youtube.html %}
 
-<center><em>Here’s how our team’s structure allows agents to produce more.</em></center>
+<center><em>Here&rsquo;s how our team&rsquo;s structure allows agents to produce more.</em></center>
 
 &nbsp;
 
