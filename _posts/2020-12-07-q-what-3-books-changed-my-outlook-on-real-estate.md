@@ -16,7 +16,8 @@ youtube_code: vBw69AO0Elc
 
 {% include youtube.html %}
 
-\*Here are my three favorite books for new and/or struggling agents. \*
+<center><em>Here are my three favorite books for new and/or struggling agents.</e></center>
+&nbsp;
 
 If you’re brand-new to real estate or find yourself still struggling in this industry, perhaps it’s time to boost your knowledge base. Real estate isn’t easy, and we at High Performance Real Estate Advisors have structured all our systems with that understanding in mind. Today I’m recommending three amazing books that are sure to give you a game-changing new perspective.&nbsp;
 
