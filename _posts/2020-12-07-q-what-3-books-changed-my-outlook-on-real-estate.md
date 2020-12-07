@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: What 3 Books Changed My Outlook on Real Estate?'
-date: 2020-12-07 18:04:35
+date: 2020-12-07 18:04:00
 tags:
 excerpt: Here are my three favorite books for new and/or struggling agents.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Thomas+Elrod/Videos+/-+Charlotte+Real+Estate+Agent.mp4
 pullquote: Perhaps it’s time to boost your knowledge base.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: vBw69AO0Elc
 
 {% include youtube.html %}
 
-*Here are my three favorite books for new and/or struggling agents. *
+\*Here are my three favorite books for new and/or struggling agents. \*
 
 If you’re brand-new to real estate or find yourself still struggling in this industry, perhaps it’s time to boost your knowledge base. Real estate isn’t easy, and we at High Performance Real Estate Advisors have structured all our systems with that understanding in mind. Today I’m recommending three amazing books that are sure to give you a game-changing new perspective.&nbsp;
 
